@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ut-dojo.iml" filepath="$PROJECT_DIR$/ut-dojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UtDojo.iml" filepath="$PROJECT_DIR$/UtDojo.iml" />
     </modules>
   </component>
 </project>
